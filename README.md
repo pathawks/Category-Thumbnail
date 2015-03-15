@@ -1,6 +1,7 @@
 # Category Thumbnail
 
 [![Plugin Version](https://img.shields.io/wordpress/plugin/v/dirtysuds-category-thumbnail.svg)](https://wordpress.org/plugins/dirtysuds-category-thumbnail/)
+[![License](https://img.shields.io/badge/license-GPLv2-blue.svg)](https://wordpress.org/about/license/)
 [![Tested Version](https://img.shields.io/wordpress/v/dirtysuds-category-thumbnail.svg)](https://wordpress.org/plugins/dirtysuds-category-thumbnail/)
 [![Rating](https://img.shields.io/wordpress/plugin/r/dirtysuds-category-thumbnail.svg)](https://wordpress.org/support/view/plugin-reviews/dirtysuds-category-thumbnail)
 [![Downloads](https://img.shields.io/wordpress/plugin/dt/dirtysuds-category-thumbnail.svg)](https://wordpress.org/plugins/dirtysuds-category-thumbnail/)
